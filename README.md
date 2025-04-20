@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Research Data Management System<br>🌱 I’m currently learning ReactJs and NodeJs<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Research Data Management System<br>🌱 I’m currently learning ReactJs and NodeJs<br>
 
 
 ## 🌐 Socials:
