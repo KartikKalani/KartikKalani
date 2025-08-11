@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Research Data Management System<br>🌱 I’m currently learning ReactJs and NodeJs<br>
-
+To secure a challenging position as a software engineer where I can leverage my strong foundation in C++ and proficiency in data structures and algorithms to design and implement efficient and innovative software solutions. I am also passionate about machine learning and Deep learning, and I am eager to develop and implement cutting-edge algorithms and models in this exciting field. I aim to contribute to the development of high-performance applications and systems while continuously enhancing my technical expertise and knowledge.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KarteekkumarKalani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kalanikartik077@gmail.com) 
